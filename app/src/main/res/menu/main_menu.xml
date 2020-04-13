@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Account Settings" android:id="@+id/settings"/>
+
+    <item android:id="@+id/users" android:title="All Users"/>
+
+    <item  android:id="@+id/starMessages" android:title="Star Messages" />
+    
+   <item android:id="@+id/logOut" android:title="Log Out" />
+
+
+
+
+</menu>
